@@ -1,0 +1,5 @@
+plugins {
+    id 'io.ratpack.ratpack-java' version '2.0.0-rc-1'
+}
+
+mainClassName = 'com.michaelschlies.prometheus.xeno.App'
